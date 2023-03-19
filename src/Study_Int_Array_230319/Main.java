@@ -1,3 +1,5 @@
+package Study_Int_Array_230319;
+
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
